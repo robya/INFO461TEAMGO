@@ -1,17 +1,17 @@
 # INFO461TEAMGO
-MISSION STATEMENT GOES HERE
+MISSION STATEMENT: Make life more productive
 
-PROBLEM STATEMENT GOES HERE
+PROBLEM STATEMENT: 
 
-Anton Zheng: ROLE HERE
+Anton Zheng: Engineer / Support 
 
-John Lim: ROLE HERE
+John Lim: Marketing 
 
-Harry Barng: ROLE HERE
+Harry Barng: Design / Engineer
 
-Harshitha Akkaraju: ROLE HERE
+Harshitha Akkaraju: Engineer / Design
 
-Robin Yang: ROLE HERE
+Robin Yang: Project Management / Engineer
 
 TEAM MEETINGS: TUESDAYS 10:30 am - 12 pm 
 
