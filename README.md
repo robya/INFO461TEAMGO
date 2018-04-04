@@ -5,7 +5,7 @@ Make life more productive
 
 ## PROBLEM STATEMENT:
 
-As young adults begin to share living spaces away from their parents, household chores and tasks can begin to pile up. Responsibility starts to wean and finger pointing can start to occur. The current methods of house chore and task management within roommates is tedious and inconvenient. With Amazon Alexa and Amazon Echo, speech is a simple and easy medium to plan and facilitate a tidy home.
+As young adults begin to share living spaces away from their parents, household chores and tasks can begin to pile up. Responsibility starts to wean and finger pointing can start to occur. The current methods of house chore and task management within roommates is tedious and performed through inconvenient mediums. 
 
 Anton Zheng: Engineer / Support 
 
